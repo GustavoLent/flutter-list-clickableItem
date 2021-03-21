@@ -1,6 +1,8 @@
-# list_clickable_itens
+# List with Clickable Itens
 
-A new Flutter project.
+A Flutter project developed to share knowledge.
+
+Article in link https://gustavo-lent.medium.com/flutter-criando-uma-lista-com-elementos-clic%C3%A1veis-e337f3ffe219
 
 ## Getting Started
 
